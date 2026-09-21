@@ -68,7 +68,7 @@ patterns are all grouped together and commented.
 
 ## License
 
-MIT — see `LICENSE`. This is an original, independently authored game
+Apache License 2.0 — see `LICENSE`. This is an original, independently authored game
 inspired by the fixed-shooter genre; it is not affiliated with or
 endorsed by any trademark holder in that genre, and uses no copyrighted
 artwork, sprites, or audio from any prior game.
