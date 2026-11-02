@@ -11,8 +11,8 @@ and no network calls.
 **Locally:** double-click `index.html`, or serve the folder with any static
 server (`python3 -m http.server`) and open it in a browser.
 
-**On GitHub Pages:** once deployed (see below), it's live at
-`https://<your-username>.github.io/<repo-name>/`.
+**On GitHub Pages:** if Pages is enabled for this repository (see below), it is served at
+`https://qualitycoding.github.io/invasion/`.
 
 ## Controls
 
@@ -24,8 +24,8 @@ server (`python3 -m http.server`) and open it in a browser.
 | Mute | `M` | speaker icon, top-right |
 | Start / Restart | `Space` or `Enter` | tap FIRE or the screen |
 
-Your high score is saved in the browser's `localStorage`, so it persists
-between visits on the same device.
+Your high score and your mute setting are saved in the browser's `localStorage`,
+so they persist between visits on the same device.
 
 ## Deploying to GitHub Pages
 
